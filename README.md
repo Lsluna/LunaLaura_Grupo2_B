@@ -24,17 +24,25 @@ Ejemplo: RicardoPerez_Grupo3_(H)
 4. En la rama ```main``` agregue el link de la imagen que se encuentra comentada en la línea 3.
 5. Cree una rama llamada ```corregir-titulos``` para arreglar el título y subtítulos de las secciones en el formato correspondiente, aquí el fragmento de código con la sintaxis:
 ```
-# Título (nombre de la receta)
-## Subtítulos (Ingredientes e Instrucciones)
+# Título (Nombre del personaje)
+## Subtítulos (Información personal y Aportes)
 ```
-6. Cree una rama (usted determinará el nombre más adecuado) y en la sección de ingredientes, escriba los números de las cantidades, así: ```1/2 (medio) sobre de caldo desmenuzado.```
-7. En la sección de instrucciones hay 7 errores de ortografía, cree una rama (con el nombre que usted considere más apropiado) y corrija los 7 errores de ortografía que se encuentran en mayúsculas.
+6. Cree una rama (usted determinará el nombre más adecuado) y en las fechas de nacimiento y defunción, escriba las fechas en formato ```DD/MM/AAAA```, así:
+```
+quince de agosto de mil novecientos noventa y dos   ➡   15/08/1992
+```
+7. Cree una rama llamada ```ordenar-informacion```, ordene en la información así:
+- Fecha de Nacimiento
+- Fecha de Fallecimiento
+- Ocupación
+- Área de conocimiento
+- Estudios
+8. En la sección de Aportes hay 7 errores de ortografía, cree una rama (con el nombre que usted considere más apropiado) y corrija los 7 errores de ortografía que se encuentran en mayúsculas.
 *NOTA: Haga un commit por cada error de ortografía corregido con el siguiente mensaje:*
 ```
 Palabra <equivocada> corregida por <correcta>.
-Ejemplo: Palabra REZETHA corregida por receta.
+Ejemplo: Palabra SIUDAD corregida por ciudad.
 ```
-8. En la rama creada en el punto anterior, coloque los pasos de preparación en orden.
 9. Finalmente, en la rama ```main``` al final de la receta, escriba su nombre completo y documento de identidad.
 <br><br><br>
 ## Puntos Negativos (-0.05)
@@ -48,7 +56,6 @@ Ejemplo: Palabra REZETHA corregida por receta.
 - NO seguir las instrucciones detalladas de este documento.
 <br><br><br>
 ## Tabla de Resumen de Comandos de Git más utilizados
-
 | Comando | Función |
 | --- | --- |
 | git init | Inicializar repositorio |
