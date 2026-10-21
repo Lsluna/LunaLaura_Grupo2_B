@@ -1,9 +1,10 @@
-Grace Hopper
+# Grace Hopper
 <br>
 <!-- Link: https://upload.wikimedia.org/wikipedia/commons/5/55/Grace_Hopper.jpg -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Grace_Hopper.jpg" alt="Fotografía de Grace Hopper" width="600">
 <br><br><br>
-Información personal
+
+## Información personal
 <br>
 - Área de conocimiento: programación y lenguajes informáticos.
 <br>
