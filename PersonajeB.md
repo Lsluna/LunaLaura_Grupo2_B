@@ -5,15 +5,15 @@ Grace Hopper
 <br><br><br>
 Información personal
 <br>
-- Área de conocimiento: programación y lenguajes informáticos.
+- Fecha de nacimiento: nueve de diciembre de mil novecientos seis.
 <br>
 - Fecha de defunción: primero de enero de mil novecientos noventa y dos.
 <br>
-- Fecha de nacimiento: nueve de diciembre de mil novecientos seis.
+- Ocupación: científica de la computación y oficial naval.
+<br>
+- Área de conocimiento: programación y lenguajes informáticos.
 <br>
 - Estudios: matemáticas y física en Vassar College; maestría y doctorado en matemáticas en Yale.
-<br>
-- Ocupación: científica de la computación y oficial naval.
 <br><br><br>
 Aportes
 <br>
